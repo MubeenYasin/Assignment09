@@ -1,0 +1,6 @@
+{
+    "CompileOptions":{
+        "rootDir": "./src",
+        "outDir": "./dist"
+    }
+}

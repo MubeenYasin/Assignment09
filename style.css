@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Calibri;
+}
+h2, p{
+    color: white;
+    /* font-size: 18px; */
+}
+p{
+    
+}
+input, button, .btn{
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 0 10px 0 10px;
+}
+button{
+    text-align: center;
+    color: #9c0507;
+}
+button:hover{
+    color: #f94144;
+    font-weight: 900;
+}
+
+.main{
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+}
+.style{
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+    line-height: 30px;
+    margin: 25px;
+
+}
+.max-number-bt-2, .problem19{
+    background-color: #f94144;
+}
+.max-number-bt-3, .problem18, .problem20{
+    background-color: #f3722c;
+}
+.problem03, .problem17, .problem21{
+    background-color: #f8961e;
+}
+.problem04, .problem16{
+    background-color: #f9844a;
+}
+.problem05, .problem15{
+    background-color: #f9c74f;
+}
+.problem06, .problem14{
+    background-color: #90be6d;
+}
+.problem07, .problem13, .problem07B{
+    background-color: #43aa8b;
+}
+.problem08, .problem12{
+    background-color: #4d908e;
+}
+.problem09, .problem11{
+    background-color: #577590;
+}
+.problem10{
+    background-color: #277da1;
+}
